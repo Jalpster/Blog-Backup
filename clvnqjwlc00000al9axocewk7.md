@@ -5,6 +5,7 @@ seoDescription: "Final Project for an Intro to Web Dev course"
 datePublished: Wed May 01 2024 11:30:19 GMT+0000 (Coordinated Universal Time)
 cuid: clvnqjwlc00000al9axocewk7
 slug: web-image-gallery
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714584038230/ec754e96-afd6-49e9-9539-1db96a377b3f.png
 tags: web-development, web-components, beginners, school, lit
 
 ---
